@@ -28,7 +28,7 @@ function changeRegionBackgroundColor() {
   // console.log(colorPalette_json)
   let color = colorPalette_json[region]
   console.log(color)
-  const aws_navbar = document.getElementsByClassName("globalNav-032")
+  const aws_navbar = document.getElementsByClassName("globalNav-122")
   for (let i = 0; i < aws_navbar.length; i++) {
     aws_navbar[i].style.setProperty('background-color', color, 'important');
   }

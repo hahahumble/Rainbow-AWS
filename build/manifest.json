@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Rainbow AWS: AWS console header color",
-  "version": "0.3",
+  "version": "0.4.0",
   "description": "Change the color of the AWS console's headers based on the region you select.",
   "permissions": [
     "storage"
@@ -13,9 +13,6 @@
     ]
   }],
   "icons": {
-    "16": "icon16.png",
-    "32": "icon32.png",
-    "48": "icon48.png",
     "128": "icon128.png"
   },
   "action": {
