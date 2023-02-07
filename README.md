@@ -1,7 +1,7 @@
 # Rainbow AWS: AWS console header color
 Change the color of the AWS console's headers based on the region you select.
 
-![image](./rainbow-aws.png)
+<img src="./rainbow-aws.png" alt="Rainbow AWS poster" width="600px"/>
 
 ## Link
 * [Chrome Web Store](https://chrome.google.com/webstore/detail/rainbow-aws-aws-console-h/foicngnfgjoobicakmgedfomghgdkljg)</br>
